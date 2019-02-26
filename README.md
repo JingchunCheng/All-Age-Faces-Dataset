@@ -1,5 +1,5 @@
 # All-Age-Faces Dataset
-![Alt Text](https://github.com/JingchunCheng/All-Age-Faces-Dataset/blob/master/illu_dataset.png) 
+![Alt Text](https://github.com/JingchunCheng/All-Age-Faces-Dataset/blob/master/illu_AAF.png) 
 
 Download link: https://pan.baidu.com/s/1WtHQsb73rLa-cZpBLi2dtg <br />
 Contact: Jingchun Cheng (chengjingchun at gmail dot com)
