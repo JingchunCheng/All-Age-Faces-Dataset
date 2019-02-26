@@ -7,7 +7,7 @@ Contact: Jingchun Cheng (chengjingchun at gmail dot com)
 
 The All-Age-Faces (AAF) Dataset contains 13'322 face images (mostly Asian) distributed across all ages (from 2 to 80), including 7381 females and 5941 males.
 
-The orignal face images, facial landmarks and aligned face images are stored in folder `original images`, `key points`, and `aligned faces` respectively. 
+The orignal face images, facial landmarks and aligned face images are stored in folder `original images`, `key points`, and `aligned faces`, respectively. 
 We show an example of landmark distribution in folder `example`.
 
 Each image contains a different individual, and is given a unique name (`%05dA%02d.jpg`), illustrating the individual’s serial number and specific age.
